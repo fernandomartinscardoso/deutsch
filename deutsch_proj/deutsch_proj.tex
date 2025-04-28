@@ -1,0 +1,83 @@
+%Book project to summarize study on German language
+\documentclass[12pt,a4paper,twoside]{book}
+\usepackage[textwidth=16.5cm,textheight=25cm]{geometry}
+\usepackage[ngerman,english]{babel}
+\usepackage{amsmath,amssymb,amsfonts} % Typical maths resource packages
+\usepackage{graphics}                 % Packages to allow inclusion of graphics
+\usepackage{color}                    % For creating coloured text and background
+\usepackage[T1] {fontenc}
+\usepackage{epsfig}
+\usepackage{pstricks}
+\usepackage{booktabs}                 % For formal tables
+\usepackage{float}
+\usepackage{times}
+\usepackage{fancyhdr}                 % Package used to redefine headers
+\usepackage{lipsum}
+
+\title{Vorlesungsskript zum Deutschkurs}
+\author{Fernando Martins Cardoso}
+
+\begin{document}
+
+\thispagestyle{empty}
+\newcommand{\HRule}{\rule{\linewidth}{1mm}}
+\setlength{\parindent}{0mm}
+\setlength{\parskip}{0mm}
+ \vspace*{\stretch{1}}
+ \HRule
+ \begin{flushright}
+  \Huge Vorlesungsskript zum Deutschkurs\\[5mm]
+        \huge Fernando Martins Cardoso
+ \end{flushright}
+ \HRule
+ \vspace*{\stretch{2}}
+ \begin{center}
+  \Large\textsc{München\\ 2025}
+ \end{center}
+ 
+\newpage
+\topmargin 7.2in
+\thispagestyle{empty}
+\begin{flushright}
+\textit{Fantasie ist wichtiger als Wissen, denn Wissen ist begrenzt.\\Albert Einstein}
+\end{flushright}
+
+\newpage
+%Page setup as per The Latex Companion p. 85 (Geometrical dimensions of the Layout)
+\hoffset -1in           % Removing standard horizontal offset
+\voffset -1in           % Removing standard vertica offset
+\marginparwidth 0pt     % Margin notes width
+\marginparsep 0pt       % Margin notes separation
+\parindent 12pt         % Paragraph indentation
+\parskip 4pt            % Paragraph skip length
+\topmargin 1cm          % Top margin length
+\headheight 15pt        % Head height length
+\headsep 20pt           % Head separation
+\oddsidemargin 2.5cm      % Extra space added at the left of odd-numbered pages
+\evensidemargin 2cm     % Extra space added at the left of even-numbered pages
+\footskip 40pt
+
+\chapter*{Preface}
+\pagenumbering{roman}
+A new journey begins on studying German.
+\lipsum[1-10]
+
+\tableofcontents
+
+\newpage
+\pagenumbering{arabic}
+
+% fancy package setup for the rest of the book:
+\pagestyle{fancy}                   % Switch to the fancy page style
+\fancyhf{}                          % Clear all header and footer fields
+\fancyfoot[LE]{\thepage}             % Position of page numbering
+\fancyfoot[RO]{\thepage}
+
+\include{deutsch_proj_ch01}
+\include{deutsch_proj_ch02}
+
+
+\bibliographystyle{plain}       % Choose a bibliography style
+\bibliography{deutsch_proj_bib} % Replace with the name of your .bib file (without the .bib extension)
+
+\end{document}

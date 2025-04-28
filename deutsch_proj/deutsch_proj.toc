@@ -1,0 +1,3 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Aussprachekurs}{1}{}%
+\contentsline {chapter}{Exemplos de tabela e figura}{5}{}%
