@@ -1,13 +1,37 @@
 \begin{thebibliography}{1}
 
-\bibitem{einstein1905}
-Albert Einstein.
-\newblock Zur elektrodynamik bewegter k{\"o}rper.
-\newblock {\em Annalen der Physik}, 322(10):891--921, 1905.
+\bibitem{berlitz2000}
+Charles Berlitz.
+\newblock {\em Alem\~ao Passo a Passo}.
+\newblock Martins Fontes, 2000.
 
-\bibitem{knuth1984}
-Donald~E. Knuth.
-\newblock {\em The TeXbook}.
-\newblock Addison-Wesley Professional, 1984.
+\bibitem{langen2015}
+Langenscheidt-Redaktion.
+\newblock {\em Langenscheidt Praktisches Wörterbuch - Portugiesisch}.
+\newblock Langenscheidt, 2015.
+
+\bibitem{nunes2023}
+Rodrigo Nunes.
+\newblock Curso de alem\~ao e-fritz 5.0.
+\newblock \url{https://hotmart.com/pt-br/club/cursodealemaoefritz}, 2023.
+\newblock Accessed May 1, 2025.
+
+\bibitem{raville2025}
+Professor Raville.
+\newblock Alem\~ao com raville.
+\newblock \url{https://hotmart.com/pt-br/club/alemao-com-raville}, 2025.
+\newblock Accessed May 1, 2025.
+
+\bibitem{wiki_accent}
+the free~encyclopedia Wikipedia.
+\newblock Accent (sociolinguistics).
+\newblock \url{https://en.wikipedia.org/wiki/Accent_(sociolinguistics)}, 2025.
+\newblock Accessed May 2, 2025.
+
+\bibitem{wiki_stress}
+the free~encyclopedia Wikipedia.
+\newblock Stress (linguistics).
+\newblock \url{https://en.wikipedia.org/wiki/Stress_(linguistics)}, 2025.
+\newblock Accessed May 2, 2025.
 
 \end{thebibliography}

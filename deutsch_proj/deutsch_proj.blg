@@ -5,44 +5,44 @@ A level-1 auxiliary file: deutsch_proj_ch01.aux
 A level-1 auxiliary file: deutsch_proj_ch02.aux
 The style file: plain.bst
 Database file #1: deutsch_proj_bib.bib
-You've used 2 entries,
+You've used 6 entries,
             2118 wiz_defined-function locations,
-            512 strings with 4221 characters,
-and the built_in function-call counts, 534 in all, are:
-= -- 51
-> -- 14
+            528 strings with 4698 characters,
+and the built_in function-call counts, 1318 in all, are:
+= -- 126
+> -- 42
 < -- 0
-+ -- 7
-- -- 4
-* -- 32
-:= -- 96
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 7
++ -- 18
+- -- 12
+* -- 42
+:= -- 233
+add.period$ -- 22
+call.type$ -- 6
+change.case$ -- 22
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 23
-empty$ -- 50
-format.name$ -- 4
-if$ -- 108
+cite$ -- 6
+duplicate$ -- 52
+empty$ -- 133
+format.name$ -- 12
+if$ -- 285
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 3
-newline$ -- 13
-num.names$ -- 4
-pop$ -- 10
+int.to.str$ -- 6
+missing$ -- 4
+newline$ -- 37
+num.names$ -- 12
+pop$ -- 48
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 18
 quote$ -- 0
-skip$ -- 13
+skip$ -- 36
 stack$ -- 0
-substring$ -- 36
-swap$ -- 2
+substring$ -- 30
+swap$ -- 6
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
+type$ -- 20
 warning$ -- 0
-while$ -- 6
-width$ -- 3
-write$ -- 23
+while$ -- 12
+width$ -- 7
+write$ -- 70
