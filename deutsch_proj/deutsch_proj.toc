@@ -1,3 +1,2 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{Aussprachekurs}{1}{}%
-\contentsline {chapter}{Exemplos de de elementos formatados}{3}{}%

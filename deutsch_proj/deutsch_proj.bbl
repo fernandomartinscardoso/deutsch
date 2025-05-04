@@ -10,28 +10,40 @@ Langenscheidt-Redaktion.
 \newblock {\em Langenscheidt Praktisches Wörterbuch - Portugiesisch}.
 \newblock Langenscheidt, 2015.
 
-\bibitem{nunes2023}
-Rodrigo Nunes.
-\newblock Curso de alem\~ao e-fritz 5.0.
-\newblock \url{https://hotmart.com/pt-br/club/cursodealemaoefritz}, 2023.
-\newblock Accessed May 1, 2025.
-
 \bibitem{raville2025}
 Professor Raville.
 \newblock Alem\~ao com raville.
 \newblock \url{https://hotmart.com/pt-br/club/alemao-com-raville}, 2025.
 \newblock Accessed May 1, 2025.
 
+\bibitem{umlaute2021}
+Expath~Language School.
+\newblock How to correctly pronounce the umlaute ä, ö, ü.
+\newblock \url{https://www.expath.com/knowledge-base/germany/how-to-correctly-pronounce-the-umlaute-a-o-u}, 2021.
+\newblock Accessed May 4, 2025.
+
 \bibitem{wiki_accent}
-the free~encyclopedia Wikipedia.
+Wikipedia.
 \newblock Accent (sociolinguistics).
 \newblock \url{https://en.wikipedia.org/wiki/Accent_(sociolinguistics)}, 2025.
 \newblock Accessed May 2, 2025.
 
+\bibitem{wiki_germanalpha}
+Wikipedia.
+\newblock German alphabet.
+\newblock \url{https://en.wikipedia.org/wiki/German_alphabet}, 2025.
+\newblock Accessed May 4, 2025.
+
 \bibitem{wiki_stress}
-the free~encyclopedia Wikipedia.
+Wikipedia.
 \newblock Stress (linguistics).
 \newblock \url{https://en.wikipedia.org/wiki/Stress_(linguistics)}, 2025.
 \newblock Accessed May 2, 2025.
+
+\bibitem{wiktionary}
+Wiktionary.
+\newblock The free dictionary.
+\newblock \url{https://en.wiktionary.org/wiki/}, 2025.
+\newblock Accessed May 4, 2025.
 
 \end{thebibliography}

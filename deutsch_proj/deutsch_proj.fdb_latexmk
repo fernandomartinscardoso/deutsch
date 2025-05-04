@@ -1,16 +1,15 @@
 # Fdb version 4
-["bibtex deutsch_proj"] 1746208471.66778 "deutsch_proj.aux" "deutsch_proj.bbl" "deutsch_proj" 1746210322.74905 0
-  "./deutsch_proj_bib.bib" 1746205279.3828 1229 574da562de1e9931f144889224c88b8a ""
+["bibtex deutsch_proj"] 1746363696.12919 "deutsch_proj.aux" "deutsch_proj.bbl" "deutsch_proj" 1746364682.798 0
+  "./deutsch_proj_bib.bib" 1746362642.23898 1858 292ac0a9a1d2dd810b7ddf15ec6eb82e ""
   "/usr/local/texlive/2025/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "deutsch_proj.aux" 1746210322.44429 424 0ebe20300cddcc69cecb9bee42dd4465 "pdflatex"
-  "deutsch_proj_ch01.aux" 1746210322.38429 761 f22cff2378421b7852d6d3d81bbfe31a "pdflatex"
-  "deutsch_proj_ch02.aux" 1746210322.44029 1094 a2440cd8eda73ecd94e8f54455655be9 "pdflatex"
+  "deutsch_proj.aux" 1746364682.49866 449 905d8a0692bed4ad969f7a85c1123a43 "pdflatex"
+  "deutsch_proj_ch01.aux" 1746364682.49466 834 a55a0a7f7c39ba1c330e7040b63a7190 "pdflatex"
   (generated)
   "deutsch_proj.bbl"
   "deutsch_proj.blg"
   (rewritten before read)
-["pdflatex"] 1746210321.87603 "/home/fernando/Documents/GitHub/deutsch/deutsch_proj/deutsch_proj.tex" "deutsch_proj.pdf" "deutsch_proj" 1746210322.74929 0
-  "/home/fernando/Documents/GitHub/deutsch/deutsch_proj/deutsch_proj.tex" 1746210003.1559 2818 81cd25760b7850265a4d8f650cf9fb78 ""
+["pdflatex"] 1746364681.9586 "/home/fernando/Documents/GitHub/deutsch/deutsch_proj/deutsch_proj.tex" "deutsch_proj.pdf" "deutsch_proj" 1746364682.79819 0
+  "/home/fernando/Documents/GitHub/deutsch/deutsch_proj/deutsch_proj.tex" 1746345920.42966 2819 45294f9b462957b9adde559b56957d48 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm" 1136768653 1292 bd42be2f344128bff6d35d98474adfe3 ""
@@ -49,10 +48,6 @@
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/tipa/xipa10.tfm" 1136768653 1932 4044b73ad813bc3a7ef9fe2f6f620579 ""
-  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1248133631 36741 fa121aac0049305630cf160b86157ee4 ""
-  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1248133631 35469 70d41d2b9ea31d5d813066df7c99281c ""
-  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
-  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/tipa/xipa10.pfb" 1239205359 66213 6efbbb2a632093a8d5c2d84cb522e7c7 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb" 1136849748 45758 19968a0990191524e34e1994d4a31cb6 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1136849748 44729 811d6c62865936705a31c797a1d5dada ""
@@ -168,20 +163,16 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1745695408 5521867 6304ab00c2e80e2083791ee20c6f762c ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1745695540 3561443 f9b3569c47c747d8aaf2c0d428287202 ""
   "/usr/local/texlive/2025/texmf.cnf" 1745695403.58801 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "deutsch_proj.aux" 1746210322.44429 424 0ebe20300cddcc69cecb9bee42dd4465 "pdflatex"
-  "deutsch_proj.bbl" 1746208471.78944 1071 296fcf84c8673cd8a7a5344582c09ab2 "bibtex deutsch_proj"
-  "deutsch_proj.tex" 1746210003.1559 2818 81cd25760b7850265a4d8f650cf9fb78 ""
-  "deutsch_proj.toc" 1746210322.44829 143 b16e41f70a963f7d9a8bab43ce37010a "pdflatex"
-  "deutsch_proj_ch01.aux" 1746210322.38429 761 f22cff2378421b7852d6d3d81bbfe31a "pdflatex"
-  "deutsch_proj_ch01.tex" 1746210321.68429 2750 cb1ed0a388c22e6f6b6043790db36a44 ""
-  "deutsch_proj_ch02.aux" 1746210322.44029 1094 a2440cd8eda73ecd94e8f54455655be9 "pdflatex"
-  "deutsch_proj_ch02.tex" 1746118932.60975 1872 e79b2f650c54c1d320039ef587c4965c ""
-  "figures/tanno_multiplier.png" 1596496752 25993 b68a274f9a2405c26ca164b3beb927bb ""
+  "deutsch_proj.aux" 1746364682.49866 449 905d8a0692bed4ad969f7a85c1123a43 "pdflatex"
+  "deutsch_proj.bbl" 1746363696.25635 1417 7bdb3eece6802c27e981d4c2620f4aa7 "bibtex deutsch_proj"
+  "deutsch_proj.tex" 1746345920.42966 2819 45294f9b462957b9adde559b56957d48 ""
+  "deutsch_proj.toc" 1746364682.49866 76 31c0a5fc4f4c6e79bceca09bc0bf1b78 "pdflatex"
+  "deutsch_proj_ch01.aux" 1746364682.49466 834 a55a0a7f7c39ba1c330e7040b63a7190 "pdflatex"
+  "deutsch_proj_ch01.tex" 1746364681.77065 8565 1f5f1c00b6541a29d00d9c60268c934d ""
   (generated)
   "deutsch_proj.aux"
   "deutsch_proj.log"
   "deutsch_proj.pdf"
   "deutsch_proj.toc"
   "deutsch_proj_ch01.aux"
-  "deutsch_proj_ch02.aux"
   (rewritten before read)
