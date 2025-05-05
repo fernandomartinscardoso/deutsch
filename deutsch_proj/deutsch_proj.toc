@@ -1,2 +1,31 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{Aussprachekurs}{1}{}%
+\contentsline {section}{Accent and pronunciation}{1}{}%
+\contentsline {section}{How to improve the pronunciation in German}{1}{}%
+\contentsline {section}{A}{2}{}%
+\contentsline {section}{Ä}{2}{}%
+\contentsline {section}{B}{2}{}%
+\contentsline {section}{C}{3}{}%
+\contentsline {section}{D}{3}{}%
+\contentsline {section}{E}{4}{}%
+\contentsline {section}{F}{4}{}%
+\contentsline {section}{G}{5}{}%
+\contentsline {section}{H}{6}{}%
+\contentsline {section}{I}{6}{}%
+\contentsline {section}{J}{6}{}%
+\contentsline {section}{K}{7}{}%
+\contentsline {section}{L}{7}{}%
+\contentsline {section}{M}{7}{}%
+\contentsline {section}{N}{7}{}%
+\contentsline {section}{O}{7}{}%
+\contentsline {section}{P}{8}{}%
+\contentsline {section}{Q}{8}{}%
+\contentsline {section}{R}{8}{}%
+\contentsline {section}{S}{8}{}%
+\contentsline {section}{T}{8}{}%
+\contentsline {section}{U}{9}{}%
+\contentsline {section}{V}{9}{}%
+\contentsline {section}{W}{9}{}%
+\contentsline {section}{X}{9}{}%
+\contentsline {section}{Y}{9}{}%
+\contentsline {section}{Z}{10}{}%
