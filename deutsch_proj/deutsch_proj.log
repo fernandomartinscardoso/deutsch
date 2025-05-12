@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.26)  6 MAY 2025 00:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.26)  12 MAY 2025 06:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -576,23 +576,43 @@ File: t3ptm.fd 2001/12/31 TIPA font definitions
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 26--30
+Underfull \hbox (badness 1509) in paragraph at lines 9--13
+[]\T1/ptm/m/n/12 Hessischer Bil-dungsserver.  Kon-so-nan-ten: Plo-sivlaute.  $\T1/pcr/m/n/12 https : / / dms-[]portal .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--13
+\T1/pcr/m/n/12 bildung . hessen . de / elc / fortbildung / pdo / schriftsprache /
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 15--19
+\T1/pcr/m/n/12 sprachratgeber / Zweifelsfalle-[]bei-[]der-[]Aussprache$\T1/ptm/m/n/12 , 2023.  Ac-cessed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--36
 []\T1/ptm/m/n/12 Expath Lan-guage School.  How to cor-rectly pro-nounce the um-laute ä,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--30
+Underfull \hbox (badness 10000) in paragraph at lines 32--36
 \T1/ptm/m/n/12 ö, ü.  $\T1/pcr/m/n/12 https : / / www . expath . com / knowledge-[]base / germany /
  []
 
 
-Underfull \hbox (badness 2096) in paragraph at lines 38--42
-[]\T1/ptm/m/n/12 Wikipedia.  Ger-man al-pha-bet.  $\T1/pcr/m/n/12 https : / / en . wikipedia . org / wiki / German _
+Underfull \hbox (badness 10000) in paragraph at lines 32--36
+\T1/pcr/m/n/12 how-[]to-[]correctly-[]pronounce-[]the-[]umlaute-[]a-[]o-[]u$\T1/ptm/m/n/12 , 2021.  Ac-cessed
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 44--48
-[]\T1/ptm/m/n/12 Wikipedia.  Stress (lin-guis-tics).  $\T1/pcr/m/n/12 https : / / en . wikipedia . org / wiki / Stress _
+Underfull \hbox (badness 3547) in paragraph at lines 38--42
+[]\T1/ptm/m/n/12 Wikipedia.  Ac-cent (so-ci-olin-guis-tics).  $\T1/pcr/m/n/12 https : / / en . wikipedia . org / wiki /
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 44--48
+[]\T1/ptm/m/n/12 Wikipedia.  Ger-man al-pha-bet.  $\T1/pcr/m/n/12 https : / / en . wikipedia . org / wiki / German _
  []
 
 )
@@ -604,15 +624,15 @@ L3 programming layer <2025-03-26>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14705 strings out of 469626
- 259050 string characters out of 5471010
- 733111 words of memory out of 5000000
- 41214 multiletter control sequences out of 15000+600000
+ 14706 strings out of 469626
+ 259062 string characters out of 5471010
+ 733117 words of memory out of 5000000
+ 41215 multiletter control sequences out of 15000+600000
  677785 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,77p,1089b,384s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,77p,1089b,384s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/tipa/xipa10.pfb>
-Output written on deutsch_proj.pdf (18 pages, 104078 bytes).
+Output written on deutsch_proj.pdf (18 pages, 104419 bytes).
 PDF statistics:
  93 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream

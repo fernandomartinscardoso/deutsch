@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex deutsch_proj"] 1746482579.33793 "deutsch_proj.aux" "deutsch_proj.bbl" "deutsch_proj" 1746484510.54654 0
-  "./deutsch_proj_bib.bib" 1746379724.83833 2102 530040b462abee51f472577f30ed36e4 ""
+["bibtex deutsch_proj"] 1747024959.63148 "deutsch_proj.aux" "deutsch_proj.bbl" "deutsch_proj" 1747024960.64874 0
+  "./deutsch_proj_bib.bib" 1747024628.76315 2386 d7b287c07d7ce366245dc715cc0920f3 ""
   "/usr/local/texlive/2025/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "deutsch_proj.aux" 1746484510.2453 472 c2c9f11c3fa17d1dfcb70db0d733b4ef "pdflatex"
-  "deutsch_proj_ch01.aux" 1746484510.2413 3069 35830902e444b3a3f590e715037ecb37 "pdflatex"
+  "deutsch_proj.aux" 1747024960.35223 497 b8a2290d5292295ef8d6571a74abcd5a "pdflatex"
+  "deutsch_proj_ch01.aux" 1747024960.34823 3091 8fd1701e71d476d3beaf137d07ac48a3 "pdflatex"
   (generated)
   "deutsch_proj.bbl"
   "deutsch_proj.blg"
   (rewritten before read)
-["pdflatex"] 1746484509.6585 "/home/fernando/Documents/GitHub/deutsch/deutsch_proj/deutsch_proj.tex" "deutsch_proj.pdf" "deutsch_proj" 1746484510.54675 0
+["pdflatex"] 1747024959.75196 "/home/fernando/Documents/GitHub/deutsch/deutsch_proj/deutsch_proj.tex" "deutsch_proj.pdf" "deutsch_proj" 1747024960.64894 0
   "/home/fernando/Documents/GitHub/deutsch/deutsch_proj/deutsch_proj.tex" 1746345920.42966 2819 45294f9b462957b9adde559b56957d48 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -163,12 +163,12 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1745695408 5521867 6304ab00c2e80e2083791ee20c6f762c ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1745695540 3561443 f9b3569c47c747d8aaf2c0d428287202 ""
   "/usr/local/texlive/2025/texmf.cnf" 1745695403.58801 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "deutsch_proj.aux" 1746484510.2453 472 c2c9f11c3fa17d1dfcb70db0d733b4ef "pdflatex"
-  "deutsch_proj.bbl" 1746482579.44939 1627 0c93331e4bc1c880f120d66ed1ec8254 "bibtex deutsch_proj"
+  "deutsch_proj.aux" 1747024960.35223 497 b8a2290d5292295ef8d6571a74abcd5a "pdflatex"
+  "deutsch_proj.bbl" 1747024959.74439 1878 3c012eec07ed048ac3ee886bc9247aec "bibtex deutsch_proj"
   "deutsch_proj.tex" 1746345920.42966 2819 45294f9b462957b9adde559b56957d48 ""
-  "deutsch_proj.toc" 1746484510.2493 1100 f18009cc7871f393cafce5cfc415469f "pdflatex"
-  "deutsch_proj_ch01.aux" 1746484510.2413 3069 35830902e444b3a3f590e715037ecb37 "pdflatex"
-  "deutsch_proj_ch01.tex" 1746484509.46129 15792 4ac2176fd2b1585f5272a2c50c9cb9c1 ""
+  "deutsch_proj.toc" 1747024960.35623 1100 f18009cc7871f393cafce5cfc415469f "pdflatex"
+  "deutsch_proj_ch01.aux" 1747024960.34823 3091 8fd1701e71d476d3beaf137d07ac48a3 "pdflatex"
+  "deutsch_proj_ch01.tex" 1747024957.53694 15939 ae01a48afa960b4e3d48c409de360479 ""
   (generated)
   "deutsch_proj.aux"
   "deutsch_proj.log"
