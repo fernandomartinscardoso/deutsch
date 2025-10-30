@@ -1,5 +1,7 @@
 # Deutsch Study Repository 🇩🇪
 
+[![GitHub License](https://img.shields.io/github/license/fernandomartinscardoso/deutsch?color=5B9C73)](https://github.com/fernandomartinscardoso/deutsch/blob/main/LICENSE)
+
 This repository, aptly named "deutsch", serves as a centralized, version-controlled log for my journey in learning the German language. It's designed to track progress, store study materials, and document key concepts encountered during self-study, courses, or practice.
 
 ## 🚀 Goals
