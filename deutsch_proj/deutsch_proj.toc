@@ -22,12 +22,12 @@
 \contentsline {subsection}{P}{8}{}%
 \contentsline {subsection}{Q}{9}{}%
 \contentsline {subsection}{R}{9}{}%
-\contentsline {subsection}{S}{9}{}%
+\contentsline {subsection}{S}{10}{}%
 \contentsline {subsection}{T}{10}{}%
 \contentsline {subsection}{U}{10}{}%
 \contentsline {subsection}{V}{10}{}%
-\contentsline {subsection}{W}{10}{}%
-\contentsline {subsection}{X}{10}{}%
+\contentsline {subsection}{W}{11}{}%
+\contentsline {subsection}{X}{11}{}%
 \contentsline {subsection}{Y}{11}{}%
 \contentsline {subsection}{Z}{11}{}%
-\contentsline {subsection}{ß}{11}{}%
+\contentsline {subsection}{ß}{12}{}%
