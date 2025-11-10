@@ -19,15 +19,20 @@
 \contentsline {subsection}{M}{7}{}%
 \contentsline {subsection}{N}{8}{}%
 \contentsline {subsection}{O}{8}{}%
-\contentsline {subsection}{P}{8}{}%
+\contentsline {subsection}{Ö}{8}{}%
+\contentsline {subsection}{P}{9}{}%
 \contentsline {subsection}{Q}{9}{}%
 \contentsline {subsection}{R}{9}{}%
 \contentsline {subsection}{S}{10}{}%
 \contentsline {subsection}{T}{10}{}%
 \contentsline {subsection}{U}{10}{}%
-\contentsline {subsection}{V}{10}{}%
+\contentsline {subsection}{Ü}{11}{}%
+\contentsline {subsection}{V}{11}{}%
 \contentsline {subsection}{W}{11}{}%
 \contentsline {subsection}{X}{11}{}%
-\contentsline {subsection}{Y}{11}{}%
-\contentsline {subsection}{Z}{11}{}%
+\contentsline {subsection}{Y}{12}{}%
+\contentsline {subsection}{Z}{12}{}%
 \contentsline {subsection}{ß}{12}{}%
+\contentsline {chapter}{\numberline {A}Basics of Phonetics and Phonology}{15}{}%
+\contentsline {section}{Syllables}{15}{}%
+\contentsline {subsection}{Properties of Syllables}{16}{}%

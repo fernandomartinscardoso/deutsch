@@ -231,6 +231,9 @@ INPUT deutsch_proj_preface.aux
 INPUT .\deutsch_proj_ch01.aux
 INPUT .\deutsch_proj_ch01.aux
 INPUT deutsch_proj_ch01.aux
+INPUT .\deutsch_proj_app_phon.aux
+INPUT .\deutsch_proj_app_phon.aux
+INPUT deutsch_proj_app_phon.aux
 OUTPUT deutsch_proj.aux
 INPUT C:\Users\FeCa1\AppData\Roaming\MiKTeX\tex\latex\tipa\t3cmr.fd
 INPUT C:\Users\FeCa1\AppData\Roaming\MiKTeX\tex\latex\tipa\t3cmr.fd
@@ -363,12 +366,25 @@ INPUT C:\Users\FeCa1\AppData\Roaming\MiKTeX\tex\latex\tipa\t3ptm.fd
 INPUT C:\Users\FeCa1\AppData\Local\MiKTeX\fonts\tfm\public\tipa\xipa10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\courier\pcrr8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\courier\pcrr8t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\courier\pcrr8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT .\deutsch_proj_app_phon.tex
+INPUT .\deutsch_proj_app_phon.tex
+OUTPUT deutsch_proj_app_phon.aux
+INPUT .\deutsch_proj_app_phon.tex
+INPUT .\deutsch_proj_app_phon.tex
+INPUT deutsch_proj_app_phon.tex
+INPUT .\figures\syllable_structure.png
+INPUT .\figures\syllable_structure.png
+INPUT .\figures\syllable_structure.png
+INPUT .\figures\syllable_structure.png
+INPUT .\figures\syllable_structure.png
+INPUT .\figures\syllable_structure.png
+INPUT .\figures\syllable_structure.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT .\deutsch_proj.bbl
 INPUT .\deutsch_proj.bbl
 INPUT deutsch_proj.bbl
@@ -379,6 +395,9 @@ INPUT deutsch_proj_preface.aux
 INPUT .\deutsch_proj_ch01.aux
 INPUT .\deutsch_proj_ch01.aux
 INPUT deutsch_proj_ch01.aux
+INPUT .\deutsch_proj_app_phon.aux
+INPUT .\deutsch_proj_app_phon.aux
+INPUT deutsch_proj_app_phon.aux
 INPUT C:\Users\FeCa1\AppData\Local\MiKTeX\fonts\pk\ljfour\public\tipa\dpi720\xipa10.pk
 INPUT C:\Users\FeCa1\AppData\Local\MiKTeX\fonts\pk\ljfour\public\tipa\dpi720\xipa10.pk
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb

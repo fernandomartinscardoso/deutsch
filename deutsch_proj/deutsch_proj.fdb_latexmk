@@ -1,15 +1,16 @@
 # Fdb version 4
-["bibtex deutsch_proj"] 1762530997.99188 "deutsch_proj.aux" "deutsch_proj.bbl" "deutsch_proj" 1762531501.75765 0
-  "./deutsch_proj_bib.bib" 1762512654 2386 d7b287c07d7ce366245dc715cc0920f3 ""
+["bibtex deutsch_proj"] 1762791614.48094 "deutsch_proj.aux" "deutsch_proj.bbl" "deutsch_proj" 1762791618.24732 0
+  "./deutsch_proj_bib.bib" 1762781286 2818 eb494f473ce2c3cb98ecb3905c697d74 ""
   "C:/Program Files/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "deutsch_proj.aux" 1762531500 493 27bcc30971d62e7ce86d6f6340396a30 "pdflatex"
-  "deutsch_proj_ch01.aux" 1762531500 4670 66930be8179aeadb6c20d408807334ff "pdflatex"
-  "deutsch_proj_preface.aux" 1762531500 517 c6f743187ef80f26f906e3a399be55bf "pdflatex"
+  "deutsch_proj.aux" 1762791617 580 75c16534c75f199b791faf59f9760240 "pdflatex"
+  "deutsch_proj_app_phon.aux" 1762791617 1407 7df2df02f97478aed16c389ff995952f "pdflatex"
+  "deutsch_proj_ch01.aux" 1762791616 4851 30cd963ff8456becc45d28a83b384821 "pdflatex"
+  "deutsch_proj_preface.aux" 1762791616 517 c6f743187ef80f26f906e3a399be55bf "pdflatex"
   (generated)
   "deutsch_proj.bbl"
   "deutsch_proj.blg"
   (rewritten before read)
-["pdflatex"] 1762531498.81375 "d:/deutsch-main/deutsch/deutsch_proj/deutsch_proj.tex" "deutsch_proj.pdf" "deutsch_proj" 1762531501.76021 0
+["pdflatex"] 1762791615.07079 "d:/deutsch-main/deutsch/deutsch_proj/deutsch_proj.tex" "deutsch_proj.pdf" "deutsch_proj" 1762791618.2507 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/courier/pcrr8r.tfm" 1136765053 1292 bd42be2f344128bff6d35d98474adfe3 ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/courier/pcrr8t.tfm" 1136765053 1384 4632f5e54900a7dadbb83f555bc61e56 ""
@@ -169,20 +170,24 @@
   "C:/Users/FeCa1/AppData/Roaming/MiKTeX/tex/latex/tipa/t3enc.def" 1080621840 26483 c461a68c34040cb0d96c43e86c012a6d ""
   "C:/Users/FeCa1/AppData/Roaming/MiKTeX/tex/latex/tipa/t3ptm.fd" 1080621840 957 ae38231409ca97f1da82abcc7c49fbec ""
   "C:/Users/FeCa1/AppData/Roaming/MiKTeX/tex/latex/tipa/tipa.sty" 1080621840 21394 82fa9965637ca62399434739ae5998f6 ""
-  "d:/deutsch-main/deutsch/deutsch_proj/deutsch_proj.tex" 1762512654 2799 675013e2b424a074afb211719d04794a ""
-  "deutsch_proj.aux" 1762531500 493 27bcc30971d62e7ce86d6f6340396a30 "pdflatex"
-  "deutsch_proj.bbl" 1762530998 1957 0147ad2cdd5fbb4a0b62d4eba1de6133 "bibtex deutsch_proj"
-  "deutsch_proj.tex" 1762512654 2799 675013e2b424a074afb211719d04794a ""
-  "deutsch_proj.toc" 1762531500 1300 e852e872ff4341177090832f48830ca7 "pdflatex"
-  "deutsch_proj_ch01.aux" 1762531500 4670 66930be8179aeadb6c20d408807334ff "pdflatex"
-  "deutsch_proj_ch01.tex" 1762531497 21311 6fc982ea96e0f15b46617b45d9af9e4a ""
-  "deutsch_proj_preface.aux" 1762531500 517 c6f743187ef80f26f906e3a399be55bf "pdflatex"
+  "d:/deutsch-main/deutsch/deutsch_proj/deutsch_proj.tex" 1762775326 2861 01372d849ea4fdc445fb363e0fca971e ""
+  "deutsch_proj.aux" 1762791617 580 75c16534c75f199b791faf59f9760240 "pdflatex"
+  "deutsch_proj.bbl" 1762791615 2339 ec8e22464f34ff3e5f3bb2c8e3deea46 "bibtex deutsch_proj"
+  "deutsch_proj.tex" 1762775326 2861 01372d849ea4fdc445fb363e0fca971e ""
+  "deutsch_proj.toc" 1762791617 1557 f7d0bd765e6b82c4e4aaf80304e8095b "pdflatex"
+  "deutsch_proj_app_phon.aux" 1762791617 1407 7df2df02f97478aed16c389ff995952f "pdflatex"
+  "deutsch_proj_app_phon.tex" 1762788729 3107 7dbec3f0c6bf2285fb809547e9fef61e ""
+  "deutsch_proj_ch01.aux" 1762791616 4851 30cd963ff8456becc45d28a83b384821 "pdflatex"
+  "deutsch_proj_ch01.tex" 1762791609 21620 2e5a79d678c00209337f77fa400c080b ""
+  "deutsch_proj_preface.aux" 1762791616 517 c6f743187ef80f26f906e3a399be55bf "pdflatex"
   "deutsch_proj_preface.tex" 1762512655 2637 89ca4532da017c22aef3c2437d99fd49 ""
+  "figures/syllable_structure.png" 1762337170 20883 9d134c344ed48e30ffa35826c2c4fe8f ""
   (generated)
   "deutsch_proj.aux"
   "deutsch_proj.log"
   "deutsch_proj.pdf"
   "deutsch_proj.toc"
+  "deutsch_proj_app_phon.aux"
   "deutsch_proj_ch01.aux"
   "deutsch_proj_preface.aux"
   (rewritten before read)
