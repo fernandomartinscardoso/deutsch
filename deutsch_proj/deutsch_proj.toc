@@ -33,6 +33,18 @@
 \contentsline {subsection}{Y}{12}{}%
 \contentsline {subsection}{Z}{12}{}%
 \contentsline {subsection}{ß}{12}{}%
-\contentsline {chapter}{\numberline {A}Basics of Phonetics and Phonology}{15}{}%
-\contentsline {section}{Syllables}{15}{}%
-\contentsline {subsection}{Properties of Syllables}{16}{}%
+\contentsline {subsection}{Plosivkonsonanten}{13}{}%
+\contentsline {subsection}{Short and Long Vowels}{13}{}%
+\contentsline {subsection}{Digraphs and Diphtongs}{14}{}%
+\contentsline {subsubsection}{äu}{14}{}%
+\contentsline {subsubsection}{ch ach-Laut}{15}{}%
+\contentsline {subsubsection}{ch ich-Laut}{15}{}%
+\contentsline {chapter}{\numberline {A}Basics of Phonetics and Phonology}{17}{}%
+\contentsline {section}{\numberline {A.1}Syllables}{17}{}%
+\contentsline {section}{Syllables}{17}{}%
+\contentsline {subsection}{\numberline {A.1.1}Properties of Syllables}{18}{}%
+\contentsline {subsection}{Properties of Syllables}{18}{}%
+\contentsline {section}{\numberline {A.2}Voiced and Voiceless Sounds}{18}{}%
+\contentsline {section}{Voiced and Voiceless Sounds}{18}{}%
+\contentsline {section}{\numberline {A.3}Short and Long Vowels}{18}{}%
+\contentsline {section}{Short and Long Vowels}{18}{}%

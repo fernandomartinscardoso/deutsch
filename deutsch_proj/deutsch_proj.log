@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2025.11.7)  10 NOV 2025 17:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2025.11.7)  21 NOV 2025 17:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/deutsch-main/deutsch/deutsch_proj/deutsch_proj.tex
-(d:/deutsch-main/deutsch/deutsch_proj/deutsch_proj.tex
+**d:/deutsch-main/deutsch_proj/deutsch_proj.tex
+(d:/deutsch-main/deutsch_proj/deutsch_proj.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (C:\Program Files\MiKTeX\tex/latex/base\book.cls
@@ -550,22 +550,22 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 LaTeX Font Info:    Trying to load font information for T3+ptm on input line 67.
  (C:\Users\FeCa1\AppData\Roaming\MiKTeX\tex/latex/tipa\t3ptm.fd
 File: t3ptm.fd 2001/12/31 TIPA font definitions
-) [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12]) [13]
+) [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14]) [15]
 \openout2 = `deutsch_proj_app_phon.aux'.
 
- (deutsch_proj_app_phon.tex [14
+ (deutsch_proj_app_phon.tex [16
 
 
 
 
 ]
 Appendix A.
-<figures/syllable_structure.png, id=71, 770.88pt x 571.13374pt>
+<figures/syllable_structure.png, id=77, 770.88pt x 571.13374pt>
 File: figures/syllable_structure.png Graphic file (type png)
 <use figures/syllable_structure.png>
 Package pdftex.def Info: figures/syllable_structure.png  used on input line 20.
 (pdftex.def)             Requested size: 187.78531pt x 139.12286pt.
-[15 <./figures/syllable_structure.png (PNG copy)>]) [16] (deutsch_proj.bbl
+[17 <./figures/syllable_structure.png (PNG copy)>]) [18] (deutsch_proj.bbl
 Underfull \hbox (badness 1509) in paragraph at lines 9--15
 []\T1/ptm/m/n/12 Hessischer Bil-dungsserver.  Kon-so-nan-ten: Plo-sivlaute.  $\T1/pcr/m/n/12 https : / / dms-[]portal .
  []
@@ -581,41 +581,41 @@ Underfull \hbox (badness 1817) in paragraph at lines 17--23
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--36
+Underfull \hbox (badness 10000) in paragraph at lines 37--43
 []\T1/ptm/m/n/12 Dinesh Ramoo.  Psy-chol-ogy of lan-guage - syl-la-bles.  $\T1/pcr/m/n/12 https : / /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--36
+Underfull \hbox (badness 10000) in paragraph at lines 37--43
 \T1/pcr/m/n/12 psychologyoflanguage . pressbooks . tru . ca / chapter / syllables/$\T1/ptm/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--50
+Underfull \hbox (badness 10000) in paragraph at lines 51--57
 []\T1/ptm/m/n/12 Expath Lan-guage School.  How to cor-rectly pro-nounce the um-laute ä,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--50
+Underfull \hbox (badness 10000) in paragraph at lines 51--57
 \T1/ptm/m/n/12 ö, ü.  $\T1/pcr/m/n/12 https : / / www . expath . com / knowledge-[]base / germany /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--50
+Underfull \hbox (badness 10000) in paragraph at lines 51--57
 \T1/pcr/m/n/12 how-[]to-[]correctly-[]pronounce-[]the-[]umlaute-[]a-[]o-[]u$\T1/ptm/m/n/12 , 2021.  Ac-cessed
  []
 
 
-Underfull \hbox (badness 3547) in paragraph at lines 52--56
+Underfull \hbox (badness 3547) in paragraph at lines 59--63
 []\T1/ptm/m/n/12 Wikipedia.  Ac-cent (so-ci-olin-guis-tics).  $\T1/pcr/m/n/12 https : / / en . wikipedia . org / wiki /
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 58--62
+Underfull \hbox (badness 1226) in paragraph at lines 65--69
 []\T1/ptm/m/n/12 Wikipedia.  Ger-man al-pha-bet.  $\T1/pcr/m/n/12 https : / / en . wikipedia . org / wiki / German _
  []
 
-) [17
+) [19
 
 
 
@@ -626,17 +626,17 @@ L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14887 strings out of 475248
- 262742 string characters out of 5767628
- 1928785 words of memory out of 5000000
- 36059 multiletter control sequences out of 15000+600000
- 619001 words of font info for 104 fonts, out of 8000000 for 9000
+ 14911 strings out of 475248
+ 263111 string characters out of 5767628
+ 1931785 words of memory out of 5000000
+ 36083 multiletter control sequences out of 15000+600000
+ 620546 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,12n,93p,861b,380s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,14n,93p,853b,380s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\FeCa1\AppData\Local\MiKTeX\fonts/pk/ljfour/public/tipa/dpi720\xipa10.pk><C:/Program Files/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on deutsch_proj.pdf (23 pages, 150632 bytes).
+Output written on deutsch_proj.pdf (25 pages, 159591 bytes).
 PDF statistics:
- 152 PDF objects out of 1000 (max. 8388607)
+ 162 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
