@@ -36,15 +36,19 @@
 \contentsline {subsection}{Plosivkonsonanten}{13}{}%
 \contentsline {subsection}{Short and Long Vowels}{13}{}%
 \contentsline {subsection}{Digraphs and Diphtongs}{14}{}%
-\contentsline {subsubsection}{äu}{14}{}%
-\contentsline {subsubsection}{ch ach-Laut}{15}{}%
-\contentsline {subsubsection}{ch ich-Laut}{15}{}%
-\contentsline {chapter}{\numberline {A}Basics of Phonetics and Phonology}{17}{}%
-\contentsline {section}{\numberline {A.1}Syllables}{17}{}%
-\contentsline {section}{Syllables}{17}{}%
-\contentsline {subsection}{\numberline {A.1.1}Properties of Syllables}{18}{}%
-\contentsline {subsection}{Properties of Syllables}{18}{}%
-\contentsline {section}{\numberline {A.2}Voiced and Voiceless Sounds}{18}{}%
-\contentsline {section}{Voiced and Voiceless Sounds}{18}{}%
-\contentsline {section}{\numberline {A.3}Short and Long Vowels}{18}{}%
-\contentsline {section}{Short and Long Vowels}{18}{}%
+\contentsline {subsubsection}{ÄU}{14}{}%
+\contentsline {subsubsection}{CH ach-Laut}{15}{}%
+\contentsline {subsubsection}{CH ich-Laut}{15}{}%
+\contentsline {subsubsection}{CH Special Cases}{16}{}%
+\contentsline {subsubsection}{EI and EU}{16}{}%
+\contentsline {subsubsection}{EN}{17}{}%
+\contentsline {subsubsection}{ER}{17}{}%
+\contentsline {chapter}{\numberline {A}Basics of Phonetics and Phonology}{19}{}%
+\contentsline {section}{\numberline {A.1}Syllables}{19}{}%
+\contentsline {section}{Syllables}{19}{}%
+\contentsline {subsection}{\numberline {A.1.1}Properties of Syllables}{20}{}%
+\contentsline {subsection}{Properties of Syllables}{20}{}%
+\contentsline {section}{\numberline {A.2}Voiced and Voiceless Sounds}{20}{}%
+\contentsline {section}{Voiced and Voiceless Sounds}{20}{}%
+\contentsline {section}{\numberline {A.3}Short and Long Vowels}{20}{}%
+\contentsline {section}{Short and Long Vowels}{20}{}%
