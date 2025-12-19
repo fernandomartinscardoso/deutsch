@@ -43,12 +43,17 @@
 \contentsline {subsubsection}{EI and EU}{16}{}%
 \contentsline {subsubsection}{EN}{17}{}%
 \contentsline {subsubsection}{ER}{17}{}%
-\contentsline {chapter}{\numberline {A}Basics of Phonetics and Phonology}{19}{}%
-\contentsline {section}{\numberline {A.1}Syllables}{19}{}%
-\contentsline {section}{Syllables}{19}{}%
-\contentsline {subsection}{\numberline {A.1.1}Properties of Syllables}{20}{}%
-\contentsline {subsection}{Properties of Syllables}{20}{}%
-\contentsline {section}{\numberline {A.2}Voiced and Voiceless Sounds}{20}{}%
-\contentsline {section}{Voiced and Voiceless Sounds}{20}{}%
-\contentsline {section}{\numberline {A.3}Short and Long Vowels}{20}{}%
-\contentsline {section}{Short and Long Vowels}{20}{}%
+\contentsline {subsubsection}{ERN}{17}{}%
+\contentsline {subsubsection}{IG and NG}{18}{}%
+\contentsline {subsubsection}{PF}{18}{}%
+\contentsline {subsubsection}{TION}{18}{}%
+\contentsline {section}{Ausgabe}{19}{}%
+\contentsline {chapter}{\numberline {A}Basics of Phonetics and Phonology}{21}{}%
+\contentsline {section}{\numberline {A.1}Syllables}{21}{}%
+\contentsline {section}{Syllables}{21}{}%
+\contentsline {subsection}{\numberline {A.1.1}Properties of Syllables}{22}{}%
+\contentsline {subsection}{Properties of Syllables}{22}{}%
+\contentsline {section}{\numberline {A.2}Voiced and Voiceless Sounds}{22}{}%
+\contentsline {section}{Voiced and Voiceless Sounds}{22}{}%
+\contentsline {section}{\numberline {A.3}Short and Long Vowels}{22}{}%
+\contentsline {section}{Short and Long Vowels}{22}{}%
