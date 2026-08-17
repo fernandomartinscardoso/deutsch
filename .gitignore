@@ -1,0 +1,50 @@
+# LaTeX Core - Auxiliary and compilation files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.blx.bib
+*.brf
+*.fdb_latexmk
+*.fls
+*.glg
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.toc
+*.vrb
+
+# SyncTeX
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.synctex.gz(unbusy)
+
+# PDF and PostScript
+# (Uncomment the next line if you want to ignore compiled PDFs)
+# *.pdf
+*.dvi
+*.ps
+*.eps.mac
+
+# Texmaker / TeXstudio / TeXworks / VS Code / Vim
+*.bak
+*.sav
+*.swp
+*~
+*.tex.bak
+.vscode/
+.texpadtmp/
+
+# OS generated files
+.DS_Store
+Thumbs.db
