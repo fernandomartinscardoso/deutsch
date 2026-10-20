@@ -27,3 +27,20 @@ Youtube video: https://www.youtube.com/watch?v=m-pakSD4aCM
     - http://www.imdb.com/list/ls041993477/
   - Music
     - https://www.youtube.com/watch?v=6_E0ebP84w8&list=PLm4WIEhdYxlPAJFr7vgbgygAdWf0oRcO4&ab_channel=FABER
+
+Content to be added to deutsch_proj:
+   - Modalpartikel denn: denn is a modal particle that softens or adds a friendly, slightly puzzled tone—think “well”, “you know”, or “actually” in English. It’s most common in questions (“Was machst du denn?” ≈ “What's that you’re
+  doing, then?”) and in statements that invite explanation (“Warum hast du das denn gemacht?” ≈ “Why on earth did you do that?”). Unlike the conjunction denn (“because”), the particle is unstressed, never
+  appears at the sentence start, and doesn’t affect word order.  Use it to sound conversational and mildly inquisitive rather than formal.
+   - Other modal particles: German has a whole family of modal particles that add nuance without changing the literal meaning. Common ones include:
+      - ja – “you know”, reassuring (e.g. Das ist ja klar.)
+      - doch – contrast or encouragement (e.g. Mach das doch!)
+      - mal – softens a request, “just” (e.g. Schau mal! )
+      - schon – “already/indeed”, often to calm (e.g. Das ist schon in Ordnung.)
+      - eben – “simply”, factual tone (e.g. Das ist eben so.)
+      - halt – “just”, resigned (e.g. So ist das halt.)
+      - bloß / nur – “only”, limiting (e.g. Du hast bloß …)
+      - wohl – “probably/indeed”, tentative (e.g. Er kommt wohl spät.)
+      - etwa – “perhaps/anyway”, often in questions (e.g. Was willst du etwa?)
+      - eigentlich – “actually”, mild correction (e.g. Ich wollte eigentlich …)
+     These particles are unstressed, appear inside the clause, and give the speaker a conversational, often subtle emotional shade.
